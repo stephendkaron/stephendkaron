@@ -2,6 +2,7 @@
 hi i code stuff 😎
 lots of my projects are private, sorry :(
 reach out if you need access to something that I've created!
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css
 )](https://skillicons.dev)
 
