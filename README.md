@@ -1,9 +1,12 @@
 ## Hi there 👋
+hi i code stuff 😎
+lots of my projects are private, sorry :(
+reach out if you need access to something that I've created!
+[![My Skills](https://skillicons.dev/icons?i=js,html,css
+)](https://skillicons.dev)
 
 <!--
-**stephendkaron/stephendkaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
